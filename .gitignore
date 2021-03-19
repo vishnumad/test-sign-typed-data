@@ -1,0 +1,11 @@
+# OS X
+.DS_Store
+
+# build
+**/dist/
+**/build/
+
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
